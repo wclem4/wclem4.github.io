@@ -20,7 +20,6 @@
 
 title: Walker Clem
 email: walkerclem2@gmail.com
-email2: wclem@charlotte.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Walker Clem's developer portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
