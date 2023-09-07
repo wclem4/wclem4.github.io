@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![motorcycle](/assets/image.jpg)
+![motorcycle](/assets/motorcycle.jpg)
 
 Hey there! :wave:
 
